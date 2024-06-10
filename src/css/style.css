@@ -556,7 +556,7 @@
   width: 1920px;
   height: 755px;
   position: relative;
-  background: url("/src/img/home/videbg.png");
+  background: url("../img/home/videbg.png");
   background-repeat: no-repeat;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -594,7 +594,7 @@
   margin-top: 20px;
 }
 .video__border {
-  background: url("/src/img/etaj.png");
+  background: url("../img/etaj.png");
   width: 970px;
   height: 430px;
   display: -webkit-box;
